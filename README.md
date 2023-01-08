@@ -4,7 +4,7 @@
 ```From Today I will be starting 30 days of cloud ```
 
 
-I will focus on AWS cloud as I have more interest in it.
+I will focus on ```AWS``` cloud as I have more interest in it.
 I will be trying different services offered by AWS.
 
 ```1] IAM```
@@ -27,4 +27,4 @@ I will be trying different services offered by AWS.
 
 You can Track My Progress Here on ```Twitter``` Account
 
-[](```https://twitter.com/bhonde_abhishek```)
+[Click here](https://twitter.com/bhonde_abhishek)
