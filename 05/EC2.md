@@ -38,6 +38,6 @@
 ```11. Virtual networks you can create that are logically isolated from the rest of the AWS Cloud, and that you can optionally connect to your own network, known as virtual private clouds (VPCs).```
   
   
-  
+![image](30-Days-of-Cloud/blob/main/05/EC2.png)
 
 
