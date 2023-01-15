@@ -38,6 +38,16 @@
 ```11. Virtual networks you can create that are logically isolated from the rest of the AWS Cloud, and that you can optionally connect to your own network, known as virtual private clouds (VPCs).```
   
   
-![image](30-Days-of-Cloud/blob/main/05/EC2.png)
+
+
+## This is how EC2 dashboard looks like.....
+
+
+
+
+
+
+
+![EC2](https://user-images.githubusercontent.com/113115756/212552459-c4c66de3-ab84-46b5-b28f-19e5cb86bfef.png)
 
 
