@@ -42,3 +42,8 @@ Do not choose Proceed without a key pair (Not recommended). If you launch your i
 15]  On the Instances screen, you can view the status of the launch. It takes a short time for an instance to launch. When you launch an instance, its   initial state is pending. After the instance starts, its state changes to running and it receives a public DNS name. If the Public IPv4 DNS column is hidden, choose the settings icon ( Settings icon. ) in the top-right corner, toggle on Public IPv4 DNS, and choose Confirm.
 
 16]  It can take a few minutes for the instance to be ready for you to connect to it. Check that your instance has passed its status checks; you can view this information in the Status check column.
+  
+## How to create instance in video?  
+  
+  
+[Screencast from 01-16-2023 09:53:50 PM.webm](https://user-images.githubusercontent.com/113115756/212727201-7fce4101-af93-4478-ab62-5621bc943c51.webm)
