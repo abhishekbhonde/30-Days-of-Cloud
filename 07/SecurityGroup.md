@@ -1,9 +1,5 @@
 # Security Group
 
-
-
-## How to create Security Group?
-
 A security group controls the traffic that is allowed to reach and leave the resources that it is associated with. For example, after you associate a security group with an EC2 instance, it controls the inbound and outbound traffic for the instance.
 
 When you create a VPC, it comes with a default security group. You can create additional security groups for each VPC. You can associate a security group only with resources in the VPC for which it is created.
@@ -116,5 +112,7 @@ If you add a security group as source or destination, no rules from the specifie
 
 If you configure routes to forward the traffic between two instances in different subnets through a middlebox appliance, you must ensure that the security groups for both instances allow traffic to flow between the instances. The security group for each instance must reference the private IP address of the other instance or the CIDR range of the subnet that contains the other instance as the source. If you reference the security group of the other instance as the source, this does not allow traffic to flow between the instances.
 ```
+![Screenshot from 2023-01-17 22-21-38](https://user-images.githubusercontent.com/113115756/212961467-14abce76-5adc-48c9-84ae-1972b101f5e0.png)
+
 
 
